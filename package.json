@@ -10,6 +10,9 @@
     ],
     "author": "Tore Hammervoll <tore.hammervoll@knowit.no>",
     "license": "MIT",
+    "scripts": {
+        "test": "exit 0"
+    },
     "dependencies": {
         "@yarnpkg/pnpify": "^2.0.0-rc.11",
         "customize-cra": "^0.9.1",

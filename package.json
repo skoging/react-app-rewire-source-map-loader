@@ -1,8 +1,8 @@
 {
-    "name": "@knowitsolutions/react-app-rewire-source-map-loader",
-    "version": "1.0.3",
+    "name": "@skoging/react-app-rewire-source-map-loader",
+    "version": "1.0.4",
     "main": "index.js",
-    "repository": "git@github.com:KnowitSolutions/react-app-rewire-source-map-loader.git",
+    "repository": "git@github.com:skoging/react-app-rewire-source-map-loader.git",
     "keywords": [
         "create-react-app",
         "react-app-rewired",

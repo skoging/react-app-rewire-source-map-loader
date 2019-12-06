@@ -5,7 +5,6 @@ function pushRule(config, rule) {
 }
 
 module.exports = function rewireSourceMapLoader(config, env) {
-    if (env !== 'development') return
     getBabelLoader(config, true).options.sourceMaps = true
     getBabelLoader(config, false).options.sourceMaps = true
     pushRule(config, {

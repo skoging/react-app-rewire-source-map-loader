@@ -3,6 +3,9 @@
     "version": "1.0.4",
     "main": "index.js",
     "repository": "git@github.com:skoging/react-app-rewire-source-map-loader.git",
+    "publishConfig": {
+        "access": "public"
+    },
     "keywords": [
         "create-react-app",
         "react-app-rewired",
@@ -13,6 +16,11 @@
     "scripts": {
         "test": "exit 0"
     },
+    "files": [
+        "index.js",
+        "LICENCE",
+        "README.md"
+    ],
     "dependencies": {
         "@yarnpkg/pnpify": "^2.0.0-rc.11",
         "customize-cra": "^0.9.1",

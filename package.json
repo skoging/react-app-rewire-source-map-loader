@@ -1,14 +1,14 @@
 {
-    "name": "react-app-rewire-source-map-loader",
-    "version": "1.0.2",
+    "name": "@knowitsolutions/react-app-rewire-source-map-loader",
+    "version": "1.0.0",
     "main": "index.js",
-    "repository": "git@github.com:Hoofoo-WHU/react-app-rewire-source-map-loader.git",
+    "repository": "git@github.com:KnowitSolutions/react-app-rewire-source-map-loader.git",
     "keywords": [
         "create-react-app",
         "react-app-rewired",
         "source-map-loader"
     ],
-    "author": "WangShuo <984507810@qq.com>",
+    "author": "Tore Hammervoll <tore.hammervoll@knowit.no>",
     "license": "MIT",
     "dependencies": {
         "customize-cra": "^0.9.1",

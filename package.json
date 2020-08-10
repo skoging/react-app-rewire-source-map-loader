@@ -1,6 +1,6 @@
 {
     "name": "@skoging/react-app-rewire-source-map-loader",
-    "version": "1.0.7",
+    "version": "1.0.8",
     "main": "index.js",
     "repository": "git@github.com:skoging/react-app-rewire-source-map-loader.git",
     "publishConfig": {

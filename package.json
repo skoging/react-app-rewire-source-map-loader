@@ -23,7 +23,7 @@
     ],
     "dependencies": {
         "customize-cra": "^0.9.1",
-        "source-map-loader": "^0.2.4"
+        "source-map-loader": "^1.0.1"
     },
     "devDependencies": {
         "@yarnpkg/pnpify": "^2.0.0-rc.11",

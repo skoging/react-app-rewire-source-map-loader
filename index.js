@@ -9,7 +9,7 @@ module.exports = function rewireSourceMapLoader(config, env, ruleOverride) {
     getBabelLoader(config, false).options.sourceMaps = true
     pushRule(config, {
         test: /\.(js|mjs|jsx|ts|tsx)$/,
-        use: ['source-map-loader'],
+        use: [require('source-map-loader')],
         enforce: 'pre',
         ...ruleOverride
     })
